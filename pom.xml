@@ -84,6 +84,7 @@ under the License.
 	</repositories>
 
 	<dependencies>
+
 		<!-- Apache Flink dependencies -->
 		<dependency>
 			<groupId>org.apache.flink</groupId>
